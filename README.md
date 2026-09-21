@@ -389,7 +389,7 @@ A simple way to explain the project:
 
 ## 👤 Author
 
-**Tarun Sahani**  
+**Paras Bajaj**  
 Data Analyst Portfolio Project  
 Python | Pandas | NumPy | Matplotlib | Seaborn
 
